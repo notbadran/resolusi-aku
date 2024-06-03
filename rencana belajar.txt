@@ -1,0 +1,5 @@
+belajar:
+- javascript
+- bahasa inggris
+- mengetahui kosa kata anak anak kuliah
+- bahasa design dan developer
