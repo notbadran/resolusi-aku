@@ -1,5 +1,8 @@
 belajar:
-- javascript
+- javascript (selesai semua dibulan juni)
 - bahasa inggris
+  ^ minimal sampai chapter 15
 - mengetahui kosa kata anak anak kuliah
 - bahasa design dan developer
+- belajar matematika
+- belajar men treat seseorang lebih baik lagi
