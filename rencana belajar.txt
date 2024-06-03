@@ -1,5 +1,6 @@
 belajar:
 - javascript (selesai semua dibulan juni)
+  ^ setelah selesai cari tahu harus menggunakan react atau apa
 - bahasa inggris
   ^ minimal sampai chapter 15
 - mengetahui kosa kata anak anak kuliah
